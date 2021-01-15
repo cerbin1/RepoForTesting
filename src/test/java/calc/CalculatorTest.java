@@ -1,6 +1,6 @@
-package test.java;
+package test.java.calc;
 
-import main.java.Calculator;
+import main.java.coins.Calculator;
 import org.junit.Assert;
 import org.junit.Test;
 
